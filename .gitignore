@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+.env
+
+# Pipenv
+# Keep Pipfile and Pipfile.lock in version control
+
+# Flask and database
+instance/
+*.db
+*.sqlite
+*.sqlite3
+
+# Migrations
+# Keep migration files in version control
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
+
+# Debugging
+.ipdb
